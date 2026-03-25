@@ -1,4 +1,4 @@
-<img width="640" height="480" alt="monthly_sales" src="https://github.com/user-attachments/assets/2900337d-87d2-40fe-a1b1-15918bb248dd" />## 📊 Task 2: Monthly Sales Trend Analysis | Apexcify Technologies
+## 📊 Task 2: Monthly Sales Trend Analysis | Apexcify Technologies
 ## 📌 Overview
 
 This project is part of Apexcify Technologies – Task 2, where sales data is analyzed and visualized to understand monthly performance trends. Using Python libraries, raw data is transformed into meaningful insights through effective visualization.
